@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://github.com/NamrathaP1999"><img src="https://img.shields.io/github/followers/NamrathaP1999?style=flat-square&logo=github&label=Follow&labelColor=1F2937&color=2563EB" alt="Followers"/></a>
   <img src="https://img.shields.io/badge/MS_Data_Science-GWU-2563EB?style=flat-square" alt="GWU"/>
-  <img src="https://img.shields.io/badge/Based_in-Fullerton_Califronia-1F2937?style=flat-square" alt="Location"/>
+  <img src="https://img.shields.io/badge/Based_in-Fullerton_, Califronia-1F2937?style=flat-square" alt="Location"/>
   <img src="https://img.shields.io/badge/Open_to-Data_Engineer_Roles-10B981?style=flat-square" alt="Open to Roles"/>
 </p>
 
